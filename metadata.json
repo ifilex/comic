@@ -1,0 +1,6 @@
+{
+  "name": "Lector de Cómics CBR & CBZ",
+  "description": "Lector adaptable y fluido de cómics en formatos CBR y CBZ para móviles, tablets y PC con soporte de archivos locales y en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
